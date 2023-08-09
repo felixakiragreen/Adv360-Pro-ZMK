@@ -24,8 +24,8 @@
 #define FIND LG(F) 
 #define NEW_TAB LG(T) 
 #define CLOSE_TAB LG(W) 
-#define NEXT_TAB LG(LA(RIGHT))
-#define PREV_TAB LG(LA(LEFT))
+#define NEXT_TAB LG(LA(RIGHT_BRACKET))
+#define PREV_TAB LG(LA(LEFT_BRACKET))
 
 / {
   behaviors {
