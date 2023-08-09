@@ -1,172 +1,92 @@
 [
-	{
-		"names": [
-			"HYPER"
-		],
-		"description": "HYPER",
-		"clarify": false,
-		"documentation": "",
-		"os": {
-			"windows": true,
-			"linux": true,
-			"android": true,
-			"macos": true,
-			"ios": true
-		},
-		"footnotes": {},
-		"type": "UD"
-	},
-	{
-		"names": [
-			"BROWSER_NEWTAB"
-		],
-		"description": "BROWSER_NEWTAB",
-		"clarify": false,
-		"documentation": "",
-		"os": {
-			"windows": true,
-			"linux": true,
-			"android": true,
-			"macos": true,
-			"ios": true
-		},
-		"footnotes": {},
-		"type": "UD"
-	},
-	{
-		"names": [
-			"BROWER_CLOSE_TAB"
-		],
-		"description": "BROWER_CLOSE_TAB",
-		"clarify": false,
-		"documentation": "",
-		"os": {
-			"windows": true,
-			"linux": true,
-			"android": true,
-			"macos": true,
-			"ios": true
-		},
-		"footnotes": {},
-		"type": "UD"
-	},
-	{
-		"names": [
-			"BROWSER_NEW_TAB"
-		],
-		"description": "BROWSER_NEW_TAB",
-		"clarify": false,
-		"documentation": "",
-		"os": {
-			"windows": true,
-			"linux": true,
-			"android": true,
-			"macos": true,
-			"ios": true
-		},
-		"footnotes": {},
-		"type": "UD"
-	},
-	{
-		"names": [
-			"NEW_TAB"
-		],
-		"description": "NEW_TAB",
-		"clarify": false,
-		"documentation": "",
-		"os": {
-			"windows": true,
-			"linux": true,
-			"android": true,
-			"macos": true,
-			"ios": true
-		},
-		"footnotes": {},
-		"type": "UD"
-	},
-	{
-		"names": [
-			"CLOSE_TAB"
-		],
-		"description": "CLOSE_TAB",
-		"clarify": false,
-		"documentation": "",
-		"os": {
-			"windows": true,
-			"linux": true,
-			"android": true,
-			"macos": true,
-			"ios": true
-		},
-		"footnotes": {},
-		"type": "UD"
-	},
-	{
-		"names": [
-			"PREV_TAB"
-		],
-		"description": "PREV_TAB",
-		"clarify": false,
-		"documentation": "",
-		"os": {
-			"windows": true,
-			"linux": true,
-			"android": true,
-			"macos": true,
-			"ios": true
-		},
-		"footnotes": {},
-		"type": "UD"
-	},
-	{
-		"names": [
-			"NEXT_TAB"
-		],
-		"description": "NEXT_TAB",
-		"clarify": false,
-		"documentation": "",
-		"os": {
-			"windows": true,
-			"linux": true,
-			"android": true,
-			"macos": true,
-			"ios": true
-		},
-		"footnotes": {},
-		"type": "UD"
-	},
-	{
-		"names": [
-			"FIND"
-		],
-		"description": "FIND",
-		"clarify": false,
-		"documentation": "",
-		"os": {
-			"windows": true,
-			"linux": true,
-			"android": true,
-			"macos": true,
-			"ios": true
-		},
-		"footnotes": {},
-		"type": "UD"
-	},
-	{
-		"names": [
-			"SEARCH"
-		],
-		"description": "SEARCH",
-		"clarify": false,
-		"documentation": "",
-		"os": {
-			"windows": true,
-			"linux": true,
-			"android": true,
-			"macos": true,
-			"ios": true
-		},
-		"footnotes": {},
-		"type": "UD"
-	}
+  {
+    "names": ["HYPER"],
+    "description": "HYPER",
+    "clarify": false,
+    "documentation": "",
+    "os": {
+      "windows": true,
+      "linux": true,
+      "android": true,
+      "macos": true,
+      "ios": true
+    },
+    "footnotes": {},
+    "type": "UD"
+  },
+  {
+    "names": ["NEW_TAB"],
+    "description": "NEW_TAB",
+    "clarify": false,
+    "documentation": "",
+    "os": {
+      "windows": true,
+      "linux": true,
+      "android": true,
+      "macos": true,
+      "ios": true
+    },
+    "footnotes": {},
+    "type": "UD"
+  },
+  {
+    "names": ["CLOSE_TAB"],
+    "description": "CLOSE_TAB",
+    "clarify": false,
+    "documentation": "",
+    "os": {
+      "windows": true,
+      "linux": true,
+      "android": true,
+      "macos": true,
+      "ios": true
+    },
+    "footnotes": {},
+    "type": "UD"
+  },
+  {
+    "names": ["PREV_TAB"],
+    "description": "PREV_TAB",
+    "clarify": false,
+    "documentation": "",
+    "os": {
+      "windows": true,
+      "linux": true,
+      "android": true,
+      "macos": true,
+      "ios": true
+    },
+    "footnotes": {},
+    "type": "UD"
+  },
+  {
+    "names": ["NEXT_TAB"],
+    "description": "NEXT_TAB",
+    "clarify": false,
+    "documentation": "",
+    "os": {
+      "windows": true,
+      "linux": true,
+      "android": true,
+      "macos": true,
+      "ios": true
+    },
+    "footnotes": {},
+    "type": "UD"
+  },
+  {
+    "names": ["FIND"],
+    "description": "FIND",
+    "clarify": false,
+    "documentation": "",
+    "os": {
+      "windows": true,
+      "linux": true,
+      "android": true,
+      "macos": true,
+      "ios": true
+    },
+    "footnotes": {},
+    "type": "UD"
+  }
 ]
