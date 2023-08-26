@@ -19,12 +19,12 @@
 #include <dt-bindings/zmk/backlight.h>
 
 &mt {
-    quick_tap_ms = <200>;
-    tapping-term-ms = <150>;
-    flavor = "hold-preferred";
+    quick_tap_ms = <100>;
+    tapping-term-ms = <99>;
+    flavor = "tap-preferred";
     retro-tap;
 };
- 
+
 / {
   behaviors {
     #include "macros.dtsi"
