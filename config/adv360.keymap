@@ -19,8 +19,8 @@
 #include <dt-bindings/zmk/backlight.h>
 
 &mt {
-    tapping-term-ms = <200>;
-    quick_tap_ms = <199>;
+    tapping-term-ms = <150>;
+    quick_tap_ms = <149>;
     flavor = "tap-preferred";
 };
 
@@ -32,8 +32,8 @@
         compatible = "zmk,behavior-hold-tap";
         label = "HOMEROW_MODS";
         #binding-cells = <2>;
-        tapping-term-ms = <200>;
-        quick_tap_ms = <199>;
+        tapping-term-ms = <150>;
+        quick_tap_ms = <149>;
         flavor = "tap-preferred";
         bindings = <&kp>, <&kp>;
     };
