@@ -12,6 +12,16 @@ Run `podman machine stop; podman machine start`
 And `make`
 Until it works
 
+process:
+
+-  unplug right
+-  Do the settings reset.
+-  Flash left
+-  unplug left
+-  plug in right
+-  settings reset
+-  flash right
+
 # ADV360-PRO-ZMK
 
 ## Modifying the keymap
