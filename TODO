@@ -18,3 +18,14 @@ TODO V4: (2023.Aug.15):
    [x] Then tab
    [x] Then shift
    [x] Then Equals
+
+TODO V5: (2023_11.Nov_18.Sat):
+	[x] Added Gaming and GamingF layers 
+		qwer F1 - F4
+		asdf F5 - F8
+		zxcv F9 - F12
+	[x] moved AT symbol, and a few others
+	[x] added dedicated spacebar, enter to left side
+		replaced left & right arrows
+	[x] added dedicated backspace, delete to right side
+		replaced up & down arrows
