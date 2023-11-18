@@ -18,6 +18,12 @@
 #include <dt-bindings/zmk/rgb.h>
 #include <dt-bindings/zmk/backlight.h>
 
+&mt {
+    tapping-term-ms = <100>;
+    quick_tap_ms = <-1>;
+    flavor = "balanced";
+};
+
 / {
   behaviors {
     #include "macros.dtsi"
@@ -26,9 +32,9 @@
         compatible = "zmk,behavior-hold-tap";
         label = "HOMEROW_MODS";
         #binding-cells = <2>;
-        tapping-term-ms = <200>;
-        quick_tap_ms = <175>;
-        flavor = "tap-preferred";
+        tapping-term-ms = <100>;
+        quick_tap_ms = <-1>;
+        flavor = "balanced";
         bindings = <&kp>, <&kp>;
     };
   };
