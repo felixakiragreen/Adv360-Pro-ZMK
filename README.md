@@ -14,12 +14,14 @@ Until it works
 
 process:
 
+left and then right
+
 -  unplug right
--  Do the settings reset.
--  Flash left
+-  flash settings reset
+-  flash left
 -  unplug left
 -  plug in right
--  settings reset
+-  flash settings reset
 -  flash right
 
 # ADV360-PRO-ZMK
