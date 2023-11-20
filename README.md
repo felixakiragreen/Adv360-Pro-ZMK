@@ -2,7 +2,7 @@
 
 ```
 &mt {
-    tapping-term-ms = <100>;
+    tapping-term-ms = <125>;
     quick_tap_ms = <1>;
     flavor = "tap-preferred";
 };
@@ -12,17 +12,21 @@ Run `podman machine stop; podman machine start`
 And `make`
 Until it works
 
-process:
+## Process for flashing
 
-left and then right
+(left then right definitely doesn't work)
+so let's try right and then left
 
--  unplug right
--  flash settings reset
--  flash left
--  unplug left
--  plug in right
--  flash settings reset
--  flash right
+1. enter bootloading on right
+2. unplug left
+3. flash settings reset right
+4. flash firmware right
+5. unplug right
+6. plug in left
+7. flash settings reset left
+8. flash firmware left
+9. plug in right
+   DONE.
 
 # ADV360-PRO-ZMK
 
