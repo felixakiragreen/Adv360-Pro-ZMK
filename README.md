@@ -4,7 +4,7 @@
 &mt {
     tapping-term-ms = <100>;
     quick_tap_ms = <1>;
-    flavor = "balanced";
+    flavor = "tap-preferred";
 };
 ```
 
