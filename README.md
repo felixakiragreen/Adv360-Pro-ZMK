@@ -1,4 +1,6 @@
-# My shit
+# Felix's shit
+
+(This was removed some times, saving it here in case we need to add it back)
 
 ```
 &mt {
@@ -8,18 +10,28 @@
 };
 ```
 
-Run `podman machine stop; podman machine start`
-And `make`
-Until it works
+If there is no podman machine:
+
+1. run `podman machine init`
+
+Once you have a podman:
+
+-  run `podman machine start`
+-  run `make`
+
+If it there are any troubles:
+
+-  Run `podman machine stop; podman machine start`
+-  And `make`
+-  Until it works
 
 ## Process for flashing
 
-(left then right definitely doesn't work)
-so let's try right and then left
+Always do RIGHT first and then LEFT
 
-1. enter bootloading on right
+1. enter bootloading on right (layer 3 + bootloader = top middle button + one below = 360 + 1 / Mod + 3)
 2. unplug left
-3. flash settings reset right
+3. flash settings reset right (drag 2025XXXXX-right.uf2 to the )
 4. flash firmware right
 5. unplug right
 6. plug in left
@@ -27,6 +39,8 @@ so let's try right and then left
 8. flash firmware left
 9. plug in right
    DONE.
+
+---
 
 # ADV360-PRO-ZMK
 
