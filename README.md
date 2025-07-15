@@ -37,8 +37,10 @@ Always do RIGHT first and then LEFT
 6. plug in left
 7. flash settings reset left
 8. flash firmware left
-9. plug in right
-   DONE.
+9. unplug both
+10.   plug in left
+11.   plug in right
+      DONE.
 
 ---
 
